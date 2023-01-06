@@ -1,0 +1,1 @@
+SELECT duration FROM movie WHERE duration != 0 OR duration!=NULL;
